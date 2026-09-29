@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IgnoreManifestScope</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Settings</string>
+            <key>URL</key>
+            <string>https://roggy3387-beep.github.io/Reak/</string>
+            <key>PayloadDescription</key>
+            <string>Adds Settings Web Clip to Home Screen</string>
+            <key>PayloadDisplayName</key>
+            <string>Settings WebClip</string>
+            <key>PayloadIdentifier</key>
+            <string>com.reak.webclip.settings</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>3A4B5C6D-7E8F-9A0B-1C2D-3E4F5A6B7C8D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Settings Prank Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>ProMotion Settings Control</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reak.promotionprofile</string>
+    <key>PayloadOrganization</key>
+    <string>Gaming Setup VN</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>

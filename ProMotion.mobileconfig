@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IgnoreManifestScope</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Settings</string>
+            <key>URL</key>
+            <string>https://roggy3387-beep.github.io/Reak/</string>
+            <key>Icon</key>
+            <data>
+            iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA
+            GXRFWHRTb2Z0d2FyZ3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAM7SURBVHic7ZvbeZIwEIUPpXvP2Yg3
+            Y71U7zV0M7tM1U9k3g28Hk7CgiC8W186p053z627Bv/85/+vL49bL9uH6x8C8rQ7B8x//o0j
+            X3cOP/oP56xH8+zN4G+n5+eX+z+c0Qv+mXbJ8qD8+wEAAAD//w==
+            </data>
+            <key>PayloadDescription</key>
+            <string>Adds Settings Web Clip to Home Screen</string>
+            <key>PayloadDisplayName</key>
+            <string>Settings WebClip</string>
+            <key>PayloadIdentifier</key>
+            <string>com.reak.webclip.settings</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>3A4B5C6D-7E8F-9A0B-1C2D-3E4F5A6B7C8D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Settings Prank Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>ProMotion Settings Control</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reak.promotionprofile</string>
+    <key>PayloadOrganization</key>
+    <string>Gaming Setup VN</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
